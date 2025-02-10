@@ -1,2 +1,4 @@
-# practicas-2025
+# Practicas 2025
+
 Contiene ejercicios y código de practicas.
+Aqui trabajaremos con ejercicios de programación en Python y JavaScript.
