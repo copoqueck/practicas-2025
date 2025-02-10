@@ -9,5 +9,6 @@ Aqui trabajaremos con ejercicios de programación en Python y JavaScript.
 - Miguel
 - Joel
 - David
+- Persona
 
 
