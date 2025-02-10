@@ -8,5 +8,6 @@ Aqui trabajaremos con ejercicios de programación en Python y JavaScript.
 - Santiago 
 - Miguel
 - Joel
+- David
 
 
