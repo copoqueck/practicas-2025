@@ -22,9 +22,7 @@
  *       4         |   6000
  */
 
- select nombre_empleado, fecha_ingreso_empleado from t_empleados
-where num_hijos > 2 and id_departamento in (
-    select id_departamento from t_departamentos where presupuesto < 4000
+select nombre_empleado, fecha_ingreso_empleado from t_empleados
+where numero_hijos_empleado > 2 and codigo_departamento in (
+    select codigo_departamento from t_departamentos where presupuesto_departamento < 4000
 );
-
-
