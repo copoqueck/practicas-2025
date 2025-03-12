@@ -8,7 +8,8 @@ authors = [
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "ipdb (>=0.13.13,<0.14.0)"
+    "ipdb (>=0.13.13,<0.14.0)",
+    "ipython (>=9.0.2,<10.0.0)"
 ]
 
 [build-system]
